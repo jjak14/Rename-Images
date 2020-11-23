@@ -5,3 +5,5 @@ I write this script in my learning path with python to automate this.
 The script ask for info about the "survey"
 then uses entered info to build a path, navigate to the folders
 and rename the files
+
+Rapid Reliable Responsive our motto
